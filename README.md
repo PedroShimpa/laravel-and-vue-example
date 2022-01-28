@@ -14,10 +14,13 @@ Requisitos:
 - XAMPP
 - Composer
 - NPM
+
+-------------------------
 Ao baixar o repositorio, acesse a pasta, execute o prompt na mesmo e digite os seguintes comandos:
 - Composer install
 - Npm install
-Depois acesse o arquivo .env (renomeie o .env.example ) e coloque os dados do seu mySQL e o banco de dados, não esuqeça de iniciar o banco de dados no XAMPP ou o serviço.
+----------------------------------
+Aesse o arquivo .env (renomeie o .env.example ) e coloque os dados do seu mySQL e o banco de dados, não esuqeça de iniciar o banco de dados no XAMPP ou o serviço.
 
 Para iniciar o  servidor, digite:
 - php artisan serve
