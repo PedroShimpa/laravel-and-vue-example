@@ -8,6 +8,8 @@ Requisitos:
 - Php 7.4+
 - Composer
 - NPM
+
+
 -----------ou----------------------
 - XAMPP
 - Composer
