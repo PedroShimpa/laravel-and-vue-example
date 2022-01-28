@@ -4,13 +4,14 @@
 Para iniciar o projeto, é  preciso seguir algumas etapas:
 
 Requisitos:
+Primeira Aleternativa:
 - Mysql
 - Php 7.4+
 - Composer
 - NPM
 
-
------------ou----------------------
+-----------------------------------------------
+Segunda alternativa:
 - XAMPP
 - Composer
 - NPM
