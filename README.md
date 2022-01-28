@@ -17,7 +17,7 @@ Segunda alternativa:
 - NPM
 
 -------------------------
-Ao baixar o repositorio, acesse a pasta, execute o prompt na mesmo e digite os seguintes comandos:
+Ao baixar o repositorio, acesse a pasta, execute o prompt na mesma e digite os seguintes comandos:
 - Composer install
 - Npm install
 ----------------------------------
